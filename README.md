@@ -1,11 +1,11 @@
-About r-sparselda
-=================
+About r-sparselda-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sparselda-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.imm.dtu.dk/~lhc, https://github.com/topepo/sparselda
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sparselda-feedstock/blob/main/LICENSE.txt)
 
 Summary: Performs sparse linear discriminant analysis for Gaussians and mixture of Gaussian models.
 
